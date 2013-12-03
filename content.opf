@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Scholastic Press</dc:publisher>
+    <meta name="calibre:series_index" content="1"/>
+    <dc:language>en</dc:language>
+    <dc:creator opf:role="aut">Suzanne Collins</dc:creator>
+    <meta name="calibre:timestamp" content="2010-08-24T02:16:10.953000+00:00"/>
+    <dc:title>Mockingjay</dc:title>
+    <meta name="cover" content="id8"/>
+    <dc:date>2010-08-23T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.3) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9b3299cb-64f3-49e4-afd3-b1c235d840d6</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Mockingjay.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="images/00002.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="images/00004.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="images/calibre_cover.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Mockingjay.html#filepos734" type="toc" title="Table of Contents"/>
+    <reference href="images/calibre_cover.jpg" type="cover" title="Cover"/>
+    <reference href="Mockingjay.html#filepos664206" type="other.titlepage" title="Title Page"/>
+  </guide>
+</package>

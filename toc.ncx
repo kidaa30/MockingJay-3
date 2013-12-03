@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="9b3299cb-64f3-49e4-afd3-b1c235d840d6" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.3)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Mockingjay</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="8f301812-8dff-4183-a7c2-bb22dbb9c8bd" playOrder="36">
+      <navLabel>
+        <text>COVER</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos664206"/>
+    </navPoint>
+    <navPoint class="chapter" id="ef62bec6-32c1-4184-bb49-278b9cd08c40" playOrder="1">
+      <navLabel>
+        <text>DEDICATION</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos615"/>
+    </navPoint>
+    <navPoint class="chapter" id="4a6f6256-6766-4700-a4df-6d7b8f6413d9" playOrder="2">
+      <navLabel>
+        <text>PART I</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos4459"/>
+    </navPoint>
+    <navPoint class="chapter" id="71e42d22-691b-4812-859a-2e3e9bfc9bba" playOrder="2">
+      <navLabel>
+        <text>“THE ASHES”</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos4459"/>
+    </navPoint>
+    <navPoint class="chapter" id="f63415d7-1b69-481d-b932-b86e852f997c" playOrder="3">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos4791"/>
+    </navPoint>
+    <navPoint class="chapter" id="37ca603d-44a4-4a45-8436-dee640d6068e" playOrder="4">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos26995"/>
+    </navPoint>
+    <navPoint class="chapter" id="9c4c5581-0688-4fc1-b2e0-075cea2abf2f" playOrder="5">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos55142"/>
+    </navPoint>
+    <navPoint class="chapter" id="3d687fcb-88c7-4098-bb35-05622d6298a9" playOrder="6">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos81839"/>
+    </navPoint>
+    <navPoint class="chapter" id="9fa6abe2-23a1-47e4-8924-af9af3737db0" playOrder="7">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos101348"/>
+    </navPoint>
+    <navPoint class="chapter" id="63d52c82-6048-4ff6-a081-0fa307c0524a" playOrder="8">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos124161"/>
+    </navPoint>
+    <navPoint class="chapter" id="7a2d0d56-de70-414d-978e-c089af659f57" playOrder="9">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos145170"/>
+    </navPoint>
+    <navPoint class="chapter" id="507039d3-0f22-4045-82cb-8599bb58be17" playOrder="10">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos171909"/>
+    </navPoint>
+    <navPoint class="chapter" id="cca4123e-57d2-462b-8edc-854d82300dee" playOrder="11">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos195431"/>
+    </navPoint>
+    <navPoint class="chapter" id="9276a0b9-bd42-441f-8429-9074460f29b3" playOrder="12">
+      <navLabel>
+        <text>PART II</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos234661"/>
+    </navPoint>
+    <navPoint class="chapter" id="b25adc05-e115-4c0d-a073-f5ac632c08b0" playOrder="12">
+      <navLabel>
+        <text>“THE ASSAULT”</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos234661"/>
+    </navPoint>
+    <navPoint class="chapter" id="be5ecd83-5029-43fd-a92f-df4135f78740" playOrder="13">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos234996"/>
+    </navPoint>
+    <navPoint class="chapter" id="c05efa42-6318-40e1-a299-390bc4c4a9ef" playOrder="14">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos259668"/>
+    </navPoint>
+    <navPoint class="chapter" id="7dc360ad-e44c-4cfa-b877-c9afcc848042" playOrder="15">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos282983"/>
+    </navPoint>
+    <navPoint class="chapter" id="b5059e1a-61d4-4ba7-9dd4-27b9f19b688a" playOrder="16">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos301967"/>
+    </navPoint>
+    <navPoint class="chapter" id="8512d82b-87a2-4cb5-9817-a131673e5b30" playOrder="17">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos326030"/>
+    </navPoint>
+    <navPoint class="chapter" id="28507d84-4cce-4bdb-a4e5-1997badb4735" playOrder="18">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos345696"/>
+    </navPoint>
+    <navPoint class="chapter" id="cefd2db4-6ef4-412b-9c27-8e2a4db669b2" playOrder="19">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos368039"/>
+    </navPoint>
+    <navPoint class="chapter" id="b9dab94f-1863-4cfe-83d0-919d7c90be6d" playOrder="20">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos393970"/>
+    </navPoint>
+    <navPoint class="chapter" id="41fffd84-f04b-4a96-a78f-a3f56b64ec4b" playOrder="21">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos415852"/>
+    </navPoint>
+    <navPoint class="chapter" id="ad8a761f-8f01-4ed8-af4e-d0889cc5f81d" playOrder="22">
+      <navLabel>
+        <text>PART III</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos443374"/>
+    </navPoint>
+    <navPoint class="chapter" id="c55ed8a8-47b0-4ae9-93af-4d3227969c59" playOrder="22">
+      <navLabel>
+        <text>“THE ASSASSIN”</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos443374"/>
+    </navPoint>
+    <navPoint class="chapter" id="ef95c29c-535d-40ec-bfb6-89060fd56dcd" playOrder="23">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos443711"/>
+    </navPoint>
+    <navPoint class="chapter" id="c230b25d-9a5f-4283-9869-f547171dd0ca" playOrder="24">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos463995"/>
+    </navPoint>
+    <navPoint class="chapter" id="557ffcca-4a7f-4f00-9238-618e08553837" playOrder="25">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos485808"/>
+    </navPoint>
+    <navPoint class="chapter" id="a1964e9c-1df5-4076-98a4-7ab17ec7aeec" playOrder="26">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos511095"/>
+    </navPoint>
+    <navPoint class="chapter" id="e6cbb908-9020-4a09-a872-0cf6f7ac4747" playOrder="27">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos529652"/>
+    </navPoint>
+    <navPoint class="chapter" id="345c4bc5-62ee-46b9-8989-8b5af088876e" playOrder="28">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos555376"/>
+    </navPoint>
+    <navPoint class="chapter" id="1895526d-e6ca-4468-8e87-2e7ac841a199" playOrder="29">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos586193"/>
+    </navPoint>
+    <navPoint class="chapter" id="0cdcdd09-3580-433d-9688-bfce8d833c1a" playOrder="30">
+      <navLabel>
+        <text>26</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos603742"/>
+    </navPoint>
+    <navPoint class="chapter" id="d4819ef3-85be-43df-84c3-37332ed55818" playOrder="31">
+      <navLabel>
+        <text>27</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos626714"/>
+    </navPoint>
+    <navPoint class="chapter" id="8b0abb01-3919-4526-bedb-9cd69b556760" playOrder="32">
+      <navLabel>
+        <text>EPILOGUE</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos653963"/>
+    </navPoint>
+    <navPoint class="chapter" id="7ae38942-2728-4e22-8d81-d3cd6e3e9433" playOrder="33">
+      <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos658695"/>
+    </navPoint>
+    <navPoint class="chapter" id="8d667a4e-848a-43d1-8dc2-c21b3216f29e" playOrder="34">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos661582"/>
+    </navPoint>
+    <navPoint class="chapter" id="2b872a6a-7723-4961-9669-549360b4bd0c" playOrder="35">
+      <navLabel>
+        <text>COPYRIGHT</text>
+      </navLabel>
+      <content src="Mockingjay.html#filepos662306"/>
+    </navPoint>
+  </navMap>
+</ncx>
