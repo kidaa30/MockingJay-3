@@ -29,11 +29,12 @@
     margin-left: 0;
     margin-right: 0;
     margin-top: 10em;
-    text-align: justify;
+    text-align: center;
     text-indent: 0
     }
 .calibre12 {
-    color: blue
+    color: blue;
+    text-align: center;
     }
 .calibre13 {
     display: block;
@@ -41,7 +42,7 @@
     margin-left: 0;
     margin-right: 0;
     margin-top: 2em;
-    text-align: justify;
+    text-align: center;
     text-indent: 0
     }
 .calibre14 {
@@ -50,7 +51,7 @@
     margin-left: 0;
     margin-right: 0;
     margin-top: 0;
-    text-align: justify;
+    text-align: center;
     text-indent: 0
     }
 .calibre15 {
@@ -59,7 +60,7 @@
     margin-left: 0;
     margin-right: 0;
     margin-top: 1em;
-    text-align: justify;
+    text-align: center;
     text-indent: 0
     }
 .calibre16 {
